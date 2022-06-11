@@ -1,0 +1,30 @@
+
+
+
+
+.navigationBar{
+    background-color: aquamarine;
+    color: rgb(138, 128, 128);
+    margin-top: 0%;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+#navigation{
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    justify-content: space-evenly;
+    font-size: 35px;
+
+}
+nav li:hover{
+    cursor: pointer;
+    font-style: underline;
+    text-decoration: underline;
+    
+
+}
+
