@@ -13,3 +13,5 @@ https://bighamcyrus.github.io/Refactored-Code-for-Horiseon/
 image.png
 
 live website link: https://bighamcyrus.github.io/My-bio/
+
+[](../My-bio/assets/selfie.jpg)
