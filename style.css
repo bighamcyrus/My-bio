@@ -30,13 +30,15 @@ li:hover{
 
 }
 .subtitle{
-    flex: 400px ;
-    height: 80px;
-    width: 100%;
-    background-image: url(https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-deve-picture-id537331500?k=20&m=537331500&s=612x612&w=0&h=vnE5e_eExMtetDyYBTBoORFkxiK02o9H6KfgFwvKt4c=);
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: 35px;
+    background-color: rgb(179, 214, 245);
     font-size: 45px;
-    color: rgb(14, 184, 57);
-    text-align: right;
+    color: rgb(40, 73, 48);
+    text-align: center;
 }
 
 main{
@@ -51,10 +53,3 @@ section{
     padding: 40px;
     font-size: 24px;
 }
-
-#subsection{
- display: 
-
-}
-
-
