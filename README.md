@@ -14,4 +14,4 @@ image.png
 
 live website link: https://bighamcyrus.github.io/My-bio/
 
-![](assets/selfie.png)
+![](assets/Screenshot.jpg)
