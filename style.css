@@ -56,5 +56,6 @@ section{
 .selfie{
     width: 200px;
     height: 200px;
+    align-items: center;
     
 }
